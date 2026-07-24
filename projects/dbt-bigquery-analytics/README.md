@@ -57,3 +57,25 @@ dbt-bigquery-analytics
 - SQL Transformations
 - Data Testing
 - BigQuery Optimization
+
+## BI Layer Integration
+
+The analytics models created using dbt are designed to support BI reporting tools.
+
+Example flow:
+
+BigQuery Analytics Tables
+|
+↓
+Looker Models
+|
+↓
+Business Dashboards
+
+
+Potential dashboards:
+
+- Customer Revenue Dashboard
+- Sales Performance Dashboard
+- Customer Segmentation
+- Revenue Trends
