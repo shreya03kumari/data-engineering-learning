@@ -1,0 +1,6 @@
+customer_id,name,country,signup_date,total_spend
+101,Alice,USA,2025-01-10,2500
+102,Bob,Germany,2025-02-15,1800
+103,Charlie,India,2025-03-20,3200
+104,David,France,2025-04-05,2100
+105,Eva,Luxembourg,2025-05-12,4500
