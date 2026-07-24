@@ -1,0 +1,23 @@
+name: 'dbt_bigquery_analytics'
+
+version: '1.0.0'
+
+config-version: 2
+
+profile: 'dbt_bigquery_analytics'
+
+
+model-paths: ["models"]
+test-paths: ["tests"]
+snapshot-paths: ["snapshots"]
+
+
+models:
+
+  dbt_bigquery_analytics:
+
+    staging:
+      +materialized: view
+
+    marts:
+      +materialized: table
