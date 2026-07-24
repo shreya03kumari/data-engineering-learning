@@ -1,8 +1,10 @@
 # Data Engineering Learning Journey 🚀
 
-This repository contains my hands-on learning and practice in Data Engineering.
+Welcome to my Data Engineering portfolio repository.
 
-## Skills & Technologies
+This repository contains my hands-on learning, practice examples, and projects covering modern data engineering technologies.
+
+## 🛠️ Technologies & Skills
 
 ### Programming
 - Python
@@ -19,13 +21,14 @@ This repository contains my hands-on learning and practice in Data Engineering.
 - ETL Pipelines
 - Data Modelling
 - Data Processing
+- Data Quality
 
-## Repository Structure
+## 📂 Repository Structure
 python/
 Python programming concepts and ETL examples
 
 sql/
-SQL queries, optimization and analytical functions
+SQL queries, analytical functions and optimization techniques
 
 gcp/
 BigQuery, Dataflow and Pub/Sub examples
@@ -34,13 +37,21 @@ airflow/
 Workflow orchestration examples
 
 
-## Projects Coming Soon
+## 🚀 Upcoming Projects
 
-- CSV to BigQuery ETL Pipeline
-- Real-time streaming pipeline using Pub/Sub and Dataflow
-- Airflow automated data workflow
-- BigQuery optimization examples
+- CSV → Cloud Storage → BigQuery ETL Pipeline
+- Pub/Sub → Dataflow → BigQuery Streaming Pipeline
+- Airflow Automated Data Pipeline
+- BigQuery Performance Optimization Examples
+- dbt Analytics Engineering Project
 
-## About Me
+## 👩‍💻 About Me
 
-Data Engineer with experience building cloud-based data solutions using GCP, SQL, Python and modern data engineering technologies.
+Data Engineer with 5+ years of experience building scalable data solutions using:
+
+- Google Cloud Platform
+- BigQuery
+- SQL
+- Python
+- ETL Pipelines
+- Data Engineering best practices
