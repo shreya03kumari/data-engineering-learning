@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "evt001",
+    "user_id": "user101",
+    "event_type": "purchase",
+    "product": "laptop",
+    "amount": 1200,
+    "timestamp": "2026-07-24T10:00:00"
+  },
+  {
+    "event_id": "evt002",
+    "user_id": "user102",
+    "event_type": "purchase",
+    "product": "phone",
+    "amount": 800,
+    "timestamp": "2026-07-24T10:01:00"
+  },
+  {
+    "event_id": "evt003",
+    "user_id": "user103",
+    "event_type": "view",
+    "product": "tablet",
+    "amount": 0,
+    "timestamp": "2026-07-24T10:02:00"
+  }
+]
